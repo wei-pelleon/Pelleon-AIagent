@@ -1,0 +1,223 @@
+.material-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: all 0.2s ease;
+  border: 1px solid #e9ecef;
+}
+
+.material-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid #f1f3f5;
+}
+
+.material-id {
+  font-size: 16px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.material-id-full {
+  font-size: 13px;
+  font-weight: 600;
+  color: #2c3e50;
+  line-height: 1.3;
+}
+
+.material-type {
+  font-size: 11px;
+  font-weight: 500;
+  color: #6c757d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.section-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: #6c757d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.original-section {
+  margin-bottom: 1rem;
+}
+
+.original-desc {
+  font-size: 13px;
+  color: #495057;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.original-cost {
+  font-size: 15px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.alternative-section {
+  margin-bottom: 1rem;
+}
+
+.alt-select {
+  width: 100%;
+  padding: 0.625rem 0.75rem;
+  font-size: 13px;
+  border: 1.5px solid #dee2e6;
+  border-radius: 6px;
+  background-color: white;
+  color: #495057;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.alt-select:hover {
+  border-color: #adb5bd;
+}
+
+.alt-select:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.alt-details {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e9ecef;
+  animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.alt-description {
+  font-size: 13px;
+  color: #495057;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  line-height: 1.4;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.product-brand {
+  font-size: 12px;
+  color: #667eea;
+  padding-top: 0.5rem;
+  border-top: 1px solid #dee2e6;
+}
+
+.product-brand strong {
+  color: #667eea;
+  font-weight: 600;
+}
+
+.product-notes {
+  color: #6c757d;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.metric {
+  text-align: center;
+  padding: 0.75rem;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+}
+
+.metric-label {
+  font-size: 10px;
+  font-weight: 600;
+  color: #6c757d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.375rem;
+}
+
+.metric-value {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.cost-comparison {
+  background-color: #f8f9fa;
+  padding: 0.875rem;
+  border-radius: 6px;
+}
+
+.cost-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  font-size: 13px;
+}
+
+.cost-row:last-child {
+  margin-bottom: 0;
+}
+
+.cost-label {
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.cost-amount {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.cost-alt {
+  color: #667eea;
+}
+
+.cost-row.cost-total {
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+
+.cost-savings {
+  padding-top: 0.5rem;
+  margin-top: 0.5rem;
+  border-top: 2px solid #dee2e6;
+}
+
+.cost-savings .cost-amount {
+  color: #10b981;
+  font-weight: 700;
+  font-size: 14px;
+}
+

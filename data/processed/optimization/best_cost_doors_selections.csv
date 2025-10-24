@@ -1,0 +1,18 @@
+MATERIAL_ID,MATERIAL_TYPE,ORIGINAL_CODE,ORIGINAL_COST,ALT_RANK,ALT_CODE,ALT_DESC,ALT_COST_MAT,ALT_COST_INST,ALT_COST_TOTAL,COST_REDUCTION_PCT,FUNCTIONAL_SCORE,DESIGN_SCORE,COST_SCORE,WEIGHTED_SCORE
+1,Interior Door,2500,1231.0,1,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,35.41835905767668,4,4,5,5.0
+2,Exterior Door,5800,14800.0,1,6200,"Alum. & Fbrgls. overhead 12'-0"" x 12'-0""",2975,930.0,3905.0,73.61486486486486,3,3,5,5.0
+3,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+4,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+6,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+7,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+9,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+10,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+11,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+12,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+13,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+14,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+16,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+18,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+20,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,1.0
+21,Exterior Door,5800,14800.0,1,6200,"Alum. & Fbrgls. overhead 12'-0"" x 12'-0""",2975,930.0,3905.0,73.61486486486486,3,3,5,5.0
+22,Exterior Door,5800,14800.0,1,6200,"Alum. & Fbrgls. overhead 12'-0"" x 12'-0""",2975,930.0,3905.0,73.61486486486486,3,3,5,5.0

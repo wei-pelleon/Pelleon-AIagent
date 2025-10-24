@@ -1,0 +1,111 @@
+CODE	MATERIAL	TYPE	GLAZING	SIZE	DETAIL	MAT	INST	TOTAL		
+3000	Wood	double hung	std. glass	"2'-8"" x 4'-6"""		485	300	785		
+3050	Wood	double hung	std. glass	"3'-0"" x 5'-6"""		455	350	805		
+3100	Wood	double hung	insul. glass	"2'-8"" x 4'-6"""		370	300	670		
+3150	Wood	double hung	insul. glass	"3'-0"" x 5'-6"""		500	350	850		
+3200	Wood	sliding	std. glass	"3'-4"" x 2'-7"""		530	252	782		
+3250	Wood	sliding	std. glass	"4'-4"" x 3'-3"""		535	276	811		
+3300	Wood	sliding	std. glass	"5'-4"" x 6'-0"""		680	330	"1,010"		
+3350	Wood	sliding	insul. glass	"3'-4"" x 2'-7"""		650	295	945		
+3400	Wood	sliding	insul. glass	"4'-4"" x 3'-3"""		650	320	970		
+3450	Wood	sliding	insul. glass	"5'-4"" x 6'-0"""		820	380	"1,200"		
+3500	Wood	awning	std. glass	"2'-10"" x 1'-9"""		380	151	531		
+3600	Wood	awning	std. glass	"4'-4"" x 2'-8"""		570	147	717		
+3700	Wood	awning	insul. glass	"2'-10"" x 1'-9"""		460	175	635		
+3800	Wood	awning	insul. glass	"4'-4"" x 2'-8"""		695	161	856		
+3900	Wood	casement	std. glass	"1'-10"" x 3'-2"""	1 lite	470	200	670		
+3950	Wood	casement	std. glass	"4'-2"" x 4'-2"""	2 lite	835	265	"1,100"		
+4000	Wood	casement	std. glass	"5'-11"" x 5'-2"""	3 lite	"1,375"	340	"1,715"		
+4050	Wood	casement	std. glass	"7'-11"" x 6'-3"""	4 lite	"2,000"	410	"2,410"		
+4100	Wood	casement	std. glass	"9'-11"" x 6'-3"""	5 lite	"2,600"	475	"3,075"		
+4150	Wood	casement	insul. glass	"1'-10"" x 3'-2"""	1 lite	470	200	670		
+4200	Wood	casement	insul. glass	"4'-2"" x 4'-2"""	2 lite	955	265	"1,220"		
+4250	Wood	casement	insul. glass	"5'-11"" x 5'-2"""	3 lite	"1,450"	340	"1,790"		
+4300	Wood	casement	insul. glass	"7'-11"" x 6'-3"""	4 lite	"2,100"	410	"2,510"		
+4350	Wood	casement	insul. glass	"9'-11"" x 6'-3"""	5 lite	"2,550"	475	"3,025"		
+4400	Wood	picture	std. glass	"4'-6"" x 4'-6"""		740	340	"1,080"		
+4450	Wood	picture	std. glass	"5'-8"" x 4'-6"""		830	380	"1,210"		
+4500	Wood	picture	insul. glass	"4'-6"" x 4'-6"""		900	395	"1,295"		
+4550	Wood	picture	insul. glass	"5'-8"" x 4'-6"""		"1,000"	440	"1,440"		
+4600	Wood	fixed bay	std. glass	8' x 5'		"2,275"	625	"2,900"		
+4650	Wood	fixed bay	std. glass	"9'-9"" x 5'-4"""		"1,625"	885	"2,510"		
+4700	Wood	fixed bay	insul. glass	8' x 5'		"2,875"	625	"3,500"		
+4750	Wood	fixed bay	insul. glass	"9'-9"" x 5'-4"""		"1,775"	885	"2,660"		
+4800	Wood	casement bay	std. glass	8' x 5'		"2,325"	720	"3,045"		
+4850	Wood	casement bay	insul. glass	8' x 5'		"2,575"	720	"3,295"		
+4900	Wood	vert. bay	std. glass	8' x 5'		"2,575"	720	"3,295"		
+4950	Wood	vert. bay	insul. glass	8' x 5'		"2,700"	720	"3,420"		
+5000	Steel	double hung	"1/4"" tempered"	"2'-8"" x 4'-6"""		"1,075"	229	"1,304"		
+5050	Steel	double hung	"1/4"" tempered"	"3'-4"" x 5'-6"""		"1,625"	350	"1,975"		
+5100	Steel	double hung	insul. glass	"2'-8"" x 4'-6"""		"1,325"	264	"1,589"		
+5150	Steel	double hung	insul. glass	"3'-4"" x 5'-6"""		"2,025"	405	"2,430"		
+5200	Steel	horz. pivoted	std. glass	2' x 2'		325	76	401		
+5250	Steel	horz. pivoted	std. glass	3' x 3'		735	171	906		
+5300	Steel	horz. pivoted	std. glass	4' x 4'		"1,300"	305	"1,605"		
+5350	Steel	horz. pivoted	std. glass	6' x 4'		"1,950"	455	"2,405"		
+5400	Steel	horz. pivoted	insul. glass	2' x 2'		415	88	503		
+5450	Steel	horz. pivoted	insul. glass	3' x 3'		930	198	"1,128"		
+5500	Steel	horz. pivoted	insul. glass	4' x 4'		"1,650"	350	"2,000"		
+5550	Steel	horz. pivoted	insul. glass	6' x 4'		"2,475"	530	"3,005"		
+5600	Steel	picture window	std. glass	3' x 3'		485	171	656		
+5650	Steel	picture window	std. glass	6' x 4'		"1,300"	455	"1,755"		
+5700	Steel	picture window	insul. glass	3' x 3'		685	198	883		
+5750	Steel	picture window	insul. glass	6' x 4'		"1,825"	530	"2,355"		
+5800	Steel	industrial security	std. glass	"2'-9"" x 4'-1"""		985	214	"1,199"		
+5850	Steel	industrial security	std. glass	"4'-1"" x 5'-5"""		"1,950"	420	"2,370"		
+5900	Steel	industrial security	insul. glass	"2'-9"" x 4'-1"""		"1,225"	247	"1,472"		
+5950	Steel	industrial security	insul. glass	"4'-1"" x 5'-5"""		"2,425"	485	"2,910"		
+6000	Steel	comm. projected	std. glass	"3'-9"" x 5'-5"""		"1,600"	385	"1,985"		
+6050	Steel	comm. projected	std. glass	"6'-9"" x 4'-1"""		"2,175"	525	"2,700"		
+6100	Steel	comm. projected	insul. glass	"3'-9"" x 5'-5"""		"2,050"	445	"2,495"		
+6150	Steel	comm. projected	insul. glass	"6'-9"" x 4'-1"""		"2,775"	605	"3,380"		
+6200	Steel	casement	std. glass	"4'-2"" x 4'-2"""	2 lite	"1,425"	330	"1,755"		
+6250	Steel	casement	insul. glass	"4'-2"" x 4'-2"""		"1,825"	380	"2,205"		
+6300	Steel	casement	std. glass	"5'-11"" x 5'-2"""	3 lite	"3,000"	580	"3,580"		
+6350	Steel	casement	insul. glass	"5'-11"" x 5'-2"""		"3,675"	675	"4,350"		
+6400	Aluminum	double hung	insul. glass	"3'-0"" x 4'-0"""		685	159	844		
+6450	Aluminum	double hung	insul. glass	"4'-5"" x 5'-3"""		500	199	699		
+6500	Aluminum	double hung	insul. glass	"3'-1"" x 3'-2"""		865	191	"1,056"		
+6550	Aluminum	double hung	insul. glass	"4'-5"" x 5'-3"""		600	239	839		
+6600	Aluminum	sliding	std. glass	3' x 2'		630	159	789		
+6650	Aluminum	sliding	std. glass	5' x 3'		"1,375"	177	"1,552"		
+6700	Aluminum	sliding	std. glass	8' x 4'		"2,175"	265	"2,440"		
+6750	Aluminum	sliding	std. glass	9' x 5'		650	400	"1,050"		
+6800	Aluminum	sliding	insul. glass	3' x 2'		630	159	789		
+6850	Aluminum	sliding	insul. glass	5' x 3'		"1,500"	177	"1,677"		
+6900	Aluminum	sliding	insul. glass	8' x 4'		"2,225"	265	"2,490"		
+6950	Aluminum	sliding	insul. glass	9' x 5'		995	400	"1,395"		
+7000	Aluminum	single hung	std. glass	2' x 3'		410	159	569		
+7050	Aluminum	single hung	std. glass	"2'-8"" x 6'-8"""		445	199	644		
+7100	Aluminum	single hung	std. glass	"3'-4"" x 5'-0"""		380	177	557		
+7150	Aluminum	single hung	insul. glass	2' x 3'		320	159	479		
+7200	Aluminum	single hung	insul. glass	"2'-8"" x 6'-8"""		585	199	784		
+7250	Aluminum	single hung	insul. glass	"3'-4"" x 5'"		415	177	592		
+7300	Aluminum	double hung	std. glass	2' x 3'		390	114	504		
+7350	Aluminum	double hung	std. glass	"2'-8"" x 6'-8"""		"1,150"	340	"1,490"		
+7400	Aluminum	double hung	std. glass	"3'-4"" x 5'"		"1,075"	315	"1,390"		
+7450	Aluminum	double hung	insul. glass	2' x 3'		520	132	652		
+7500	Aluminum	double hung	insul. glass	"2'-8"" x 6'-8"""		"1,550"	390	"1,940"		
+7550	Aluminum	double hung	insul. glass	"3'-4"" x 5'-0"""		"1,450"	365	"1,815"		
+7600	Aluminum	casement	std. glass	"3'-1"" x 3'-2"""		365	186	551		
+7650	Aluminum	casement	std. glass	"4'-5"" x 5'-3"""		885	450	"1,335"		
+7700	Aluminum	casement	insul. glass	"3'-1"" x 3'-2"""		580	215	795		
+7750	Aluminum	casement	insul. glass	"4'-5"" x 5'-3"""		"1,400"	520	"1,920"		
+7800	Aluminum	hinged swing	std. glass	3' x 4'		725	229	954		
+7850	Aluminum	hinged swing	std. glass	4' x 5'		"1,200"	380	"1,580"		
+7900	Aluminum	hinged swing	insul. glass	3' x 4'		990	264	"1,254"		
+7950	Aluminum	hinged swing	insul. glass	4' x 5'		"1,650"	440	"2,090"		
+8200	Aluminum	picture unit	std. glass	"2'-0"" x 3'-0"""		233	114	347		
+8250	Aluminum	picture unit	std. glass	"2'-8"" x 6'-8"""		690	340	"1,030"		
+8300	Aluminum	picture unit	std. glass	"3'-4"" x 5'-0"""		650	315	965		
+8350	Aluminum	picture unit	insul. glass	"2'-0"" x 3'-0"""		365	132	497		
+8400	Aluminum	picture unit	insul. glass	"2'-8"" x 6'-8"""		"1,075"	390	"1,465"		
+8450	Aluminum	picture unit	insul. glass	"3'-4"" x 5'-0"""		"1,025"	365	"1,390"		
+8500	Aluminum	awning type	std. glass	"3'-0"" x 3'-0"""	2 lite	885	114	999		
+8550	Aluminum	awning type	std. glass	"3'-0"" x 4'-0"""	3 lite	915	159	"1,074"		
+8600	Aluminum	awning type	std. glass	"3'-0"" x 5'-4"""	4 lite	"2,325"	159	"2,484"		
+8650	Aluminum	awning type	std. glass	"4'-0"" x 5'-4"""	4 lite	"2,725"	177	"2,902"		
+8700	Aluminum	awning type	insul. glass	"3'-0"" x 3'-0"""	2 lite	805	114	919		
+8750	Aluminum	awning type	insul. glass	"3'-0"" x 4'-0"""	3 lite	"1,050"	159	"1,209"		
+8800	Aluminum	awning type	insul. glass	"3'-0"" x 5'-4"""	4 lite	"2,600"	159	"2,759"		
+8850	Aluminum	awning type	insul. glass	"4'-0"" x 5'-4"""	4 lite	"1,025"	177	"1,202"		

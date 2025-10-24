@@ -1,0 +1,18 @@
+MATERIAL_ID,MATERIAL_TYPE,ORIGINAL_CODE,ORIGINAL_COST,ALT_RANK,ALT_CODE,ALT_DESC,ALT_COST_MAT,ALT_COST_INST,ALT_COST_TOTAL,COST_REDUCTION_PCT,FUNCTIONAL_SCORE,DESIGN_SCORE,COST_SCORE,WEIGHTED_SCORE
+1,Interior Door,2500,1231.0,0,2500,"wood solid core birch 3'-0""x7'-0""x1 3/8""",970,261.0,1231.0,0.0,5,5,1,5.0
+2,Exterior Door,5800,14800.0,0,5800,"St. Stl. & glass balanced 3'-0"" x 7'-0""",13000,1800.0,14800.0,0.0,5,5,1,5.0
+3,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+4,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+6,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+7,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+9,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+10,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+11,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+12,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+13,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+14,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+16,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+18,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+20,Interior Door,2530,795.0,0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,0.0,5,5,1,5.0
+21,Exterior Door,5800,14800.0,0,5800,"St. Stl. & glass balanced 3'-0"" x 7'-0""",13000,1800.0,14800.0,0.0,5,5,1,5.0
+22,Exterior Door,5800,14800.0,0,5800,"St. Stl. & glass balanced 3'-0"" x 7'-0""",13000,1800.0,14800.0,0.0,5,5,1,5.0

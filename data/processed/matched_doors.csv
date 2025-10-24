@@ -1,0 +1,18 @@
+MATERIAL_ID,MATERIAL_TYPE,DESCRIPTION,WIDTH,HEIGHT,MATERIAL,QUANTITY,RSMEANS_CODE,RSMEANS_DESC,UNIT_COST_MAT,UNIT_COST_INST,UNIT_COST_TOTAL,TOTAL_COST_MAT,TOTAL_COST_INST,TOTAL_COST
+1,Interior Door,unit entry - A,"3'-0""","7'-0""",SC,168.0,2500,"wood solid core birch 3'-0""x7'-0""x1 3/8""",970,261.0,1231.0,162960.0,43848.0,206808.0
+2,Exterior Door,unit balcony - B,"3'-0""","8'-0""",WD/CMF,2.0,5800,"St. Stl. & glass balanced 3'-0"" x 7'-0""",13000,1800.0,14800.0,26000.0,3600.0,29600.0
+3,Interior Door,bedroom - C,"3'-0""","6'-8""",HC/WD,187.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,101915.0,46750.0,148665.0
+4,Interior Door,bedroom - C,"3'-0""","6'-8""",HC/WD,105.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,57225.0,26250.0,83475.0
+6,Interior Door,mech. closet #1 - E,"2'-8""","6'-8""",WD,306.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,166770.0,76500.0,243270.0
+7,Interior Door,mech. closet #2 - E,"2'-8""","6'-8""",WD,152.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,82840.0,38000.0,120840.0
+9,Interior Door,w/d closet #1 - F,"2(2'-6"")","6'-8""",WD,152.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,82840.0,38000.0,120840.0
+10,Interior Door,w/d closet #2 - F,"2(2'-6"")","6'-8""",WD,4.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,2180.0,1000.0,3180.0
+11,Interior Door,w/d closet (type a) - F,"2(2'-6"")","6'-8""",WD,7.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,3815.0,1750.0,5565.0
+12,Interior Door,w/d closet #3 - F,"2(2'-6"")","6'-8""",WD,6.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,3270.0,1500.0,4770.0
+13,Interior Door,closet - D,"2(2'-6"")","6'-8""",HC/WD,11.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,5995.0,2750.0,8745.0
+14,Interior Door,closet - D,"2(2'-6"")","6'-8""",HC/WD,202.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,110090.0,50500.0,160590.0
+16,Interior Door,closet - C,"2'-0""","6'-8""",HC/WD,21.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,11445.0,5250.0,16695.0
+18,Interior Door,closet - D,"2(2'-6"")","6'-8""",HC/WD,37.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,20165.0,9250.0,29415.0
+20,Interior Door,closet - D,"2(2'-6"")","6'-8""",HC/WD,33.0,2530,"wood Hollow core lauan 3'-0""x7'-0""x1 3/8""",545,250.0,795.0,17985.0,8250.0,26235.0
+21,Exterior Door,unit balcony - B,"3'-0""","8'-0""",WD/CMF,15.0,5800,"St. Stl. & glass balanced 3'-0"" x 7'-0""",13000,1800.0,14800.0,195000.0,27000.0,222000.0
+22,Exterior Door,unit balcony - B,"3'-0""","8'-0""",WD/CMF,100.0,5800,"St. Stl. & glass balanced 3'-0"" x 7'-0""",13000,1800.0,14800.0,1300000.0,180000.0,1480000.0

@@ -1,0 +1,12 @@
+pandas>=2.0.0
+temporalio>=1.5.0
+anthropic>=0.18.0
+streamlit>=1.30.0
+numpy>=1.24.0
+langgraph>=0.2.0
+langchain>=0.1.0
+langchain-openai>=0.1.0
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-dotenv>=1.0.0
+sse-starlette>=1.8.0

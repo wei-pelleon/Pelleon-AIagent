@@ -1,0 +1,18 @@
+MATERIAL_ID,MATERIAL_TYPE,DESCRIPTION,WIDTH,HEIGHT,MATERIAL,QUANTITY,RSMEANS_CODE,RSMEANS_DESC,UNIT_COST_MAT,UNIT_COST_INST,UNIT_COST_TOTAL,TOTAL_COST_MAT,TOTAL_COST_INST,TOTAL_COST
+1,Interior Door,unit entry - A,"3'-0""","7'-0""",SC,168.0,2500, ,970,261.0,1231.0,162960.0,43848.0,206808.0
+2,Exterior Door,unit balcony - B,"3'-0""","8'-0""",WD/CMF,2.0,5800,St. Stl. & glass balanced,13000,1800.0,14800.0,26000.0,3600.0,29600.0
+3,Interior Door,bedroom - C,"3'-0""","6'-8""",HC/WD,187.0,2500, ,970,261.0,1231.0,181390.0,48807.0,230197.0
+4,Interior Door,bedroom - C,"3'-0""","6'-8""",HC/WD,105.0,2500, ,970,261.0,1231.0,101850.0,27405.0,129255.0
+6,Interior Door,mech. closet #1 - E,"2'-8""","6'-8""",WD,306.0,2500, ,970,261.0,1231.0,296820.0,79866.0,376686.0
+7,Interior Door,mech. closet #2 - E,"2'-8""","6'-8""",WD,152.0,2500, ,970,261.0,1231.0,147440.0,39672.0,187112.0
+9,Interior Door,w/d closet #1 - F,"2(2'-6"")","6'-8""",WD,152.0,2500, ,970,261.0,1231.0,147440.0,39672.0,187112.0
+10,Interior Door,w/d closet #2 - F,"2(2'-6"")","6'-8""",WD,4.0,2500, ,970,261.0,1231.0,3880.0,1044.0,4924.0
+11,Interior Door,w/d closet (type a) - F,"2(2'-6"")","6'-8""",WD,7.0,2500, ,970,261.0,1231.0,6790.0,1827.0,8617.0
+12,Interior Door,w/d closet #3 - F,"2(2'-6"")","6'-8""",WD,6.0,2500, ,970,261.0,1231.0,5820.0,1566.0,7386.0
+13,Interior Door,closet - D,"2(2'-6"")","6'-8""",HC/WD,11.0,2500, ,970,261.0,1231.0,10670.0,2871.0,13541.0
+14,Interior Door,closet - D,"2(2'-6"")","6'-8""",HC/WD,202.0,2500, ,970,261.0,1231.0,195940.0,52722.0,248662.0
+16,Interior Door,closet - C,"2'-0""","6'-8""",HC/WD,21.0,2500, ,970,261.0,1231.0,20370.0,5481.0,25851.0
+18,Interior Door,closet - D,"2(2'-6"")","6'-8""",HC/WD,37.0,2500, ,970,261.0,1231.0,35890.0,9657.0,45547.0
+20,Interior Door,closet - D,"2(2'-6"")","6'-8""",HC/WD,33.0,2500, ,970,261.0,1231.0,32010.0,8613.0,40623.0
+21,Exterior Door,unit balcony - B,"3'-0""","8'-0""",WD/CMF,15.0,5800,St. Stl. & glass balanced,13000,1800.0,14800.0,195000.0,27000.0,222000.0
+22,Exterior Door,unit balcony - B,"3'-0""","8'-0""",WD/CMF,100.0,5800,St. Stl. & glass balanced,13000,1800.0,14800.0,1300000.0,180000.0,1480000.0

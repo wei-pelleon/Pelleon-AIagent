@@ -1,0 +1,15 @@
+UNIT TYPE	Appliance	Manufacturer	Model	Finish	Notes	Count
+Type A Unit	Refrigerator	Samsung	RF22A4121SR	Stainless Steel	French door bottom freezer	4
+Type A Unit	Microwave	Samsung	MS19M8000AS	Stainless Steel	Built-in microwave	4
+Type A Unit	Range	Samsung	NE58R9430RS	Stainless Steel		4
+Type A Unit	Dishwasher	Samsung	DW60R2014US	Stainless Steel	ADA dishwasher	4
+Type A Unit	Washer	Samsung	WF45T6000AW	Stainless Steel	W/D side by side	4
+Type A Unit	Dryer	Samsung	DVE45T6000W	Stainless Steel	W/D side by side	4
+Type A Unit	Range Hood	Samsung	NK30R3000US	Stainless Steel	W/ recirculating vent	4
+Type A Unit	Microwave Trim Kit	Samsung	MA-TK8020TS	Stainless Steel	For built-in microwave	4
+Type B Unit	Appliance	Manufacturer	Model	Finish	Notes	
+Type B Unit	Refrigerator	Samsung	RF22A4121SR	Stainless Steel	French door bottom freezer	164
+Type B Unit	Microwave	Samsung	ME16A4021AS	Stainless Steel	With recirculating vent	164
+Type B Unit	Range	Samsung	NE58R9430RS	Stainless Steel		164
+Type B Unit	Dishwasher	Samsung	DW80CG4021SR	Stainless Steel		164
+Type B Unit	Washer / Dryer	Samsung	WH46B6H100EW	White	"Single stacked unit, front load, long vent"	164

@@ -1,0 +1,14 @@
+MATERIAL_ID,MATERIAL_TYPE,DESCRIPTION,MANUFACTURER,MODEL,QUANTITY,RSMEANS_DESC,UNIT_COST_ORIGINAL,UNIT_COST_REDUCED,TOTAL_COST_ORIGINAL,TOTAL_COST_REDUCED
+Refrigerator,Appliance,Refrigerator,Samsung,RF22A4121SR,4.0,"Refrigerator, no frost 10-12 C.F.",927.5,834.75,3710.0,3339.0
+Microwave,Appliance,Microwave,Samsung,MS19M8000AS,4.0,Microwave oven,635.0,571.5,2540.0,2286.0
+Range,Appliance,Range,Samsung,NE58R9430RS,4.0,"Combination range, refrig. & sink, 30"" wide",2787.5,2508.75,11150.0,10035.0
+Dishwasher,Appliance,Dishwasher,Samsung,DW60R2014US,4.0,"Dishwasher, built-in, 2 cycles",1432.5,1289.25,5730.0,5157.0
+Washer,Appliance,Washer,Samsung,WF45T6000AW,4.0,"Dishwasher, built-in, 2 cycles",1432.5,1289.25,5730.0,5157.0
+Dryer,Appliance,Dryer,Samsung,DVE45T6000W,4.0,"Dryer, gas, 16 lb. capacity",1725.0,1552.5,6900.0,6210.0
+Range Hood,Appliance,Range Hood,Samsung,NK30R3000US,4.0,"Combination range, refrig. & sink, 30"" wide",2787.5,2508.75,11150.0,10035.0
+Microwave Trim Kit,Appliance,Microwave Trim Kit,Samsung,MA-TK8020TS,4.0,Microwave oven,635.0,571.5,2540.0,2286.0
+Refrigerator,Appliance,Refrigerator,Samsung,RF22A4121SR,164.0,"Refrigerator, no frost 10-12 C.F.",927.5,834.75,152110.0,136899.0
+Microwave,Appliance,Microwave,Samsung,ME16A4021AS,164.0,Microwave oven,635.0,571.5,104140.0,93726.0
+Range,Appliance,Range,Samsung,NE58R9430RS,164.0,"Combination range, refrig. & sink, 30"" wide",2787.5,2508.75,457150.0,411435.0
+Dishwasher,Appliance,Dishwasher,Samsung,DW80CG4021SR,164.0,"Dishwasher, built-in, 2 cycles",1432.5,1289.25,234930.0,211437.0
+Washer / Dryer,Appliance,Washer / Dryer,Samsung,WH46B6H100EW,164.0,"Dishwasher, built-in, 2 cycles",1432.5,1289.25,234930.0,211437.0

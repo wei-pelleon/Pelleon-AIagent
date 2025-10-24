@@ -1,0 +1,10 @@
+MATERIAL_ID,MATERIAL_TYPE,ORIGINAL_CODE,ORIGINAL_COST,ALT_RANK,ALT_CODE,ALT_DESC,ALT_COST_TOTAL,COST_REDUCTION_PCT,FUNCTIONAL_SCORE,DESIGN_SCORE,COST_SCORE,WEIGHTED_SCORE
+Refrigerator,Appliance,N/A,0.0,1,REDUCED,Refrigerator (10% discount),0.0,10.0,5,5,2,2.0
+Microwave,Appliance,N/A,635.0,1,REDUCED,Microwave (10% discount),571.5,10.0,5,5,2,2.0
+Range,Appliance,N/A,2787.5,1,REDUCED,Range (10% discount),2508.75,10.0,5,5,2,2.0
+Dishwasher,Appliance,N/A,1432.5,1,REDUCED,Dishwasher (10% discount),1289.25,10.0,5,5,2,2.0
+Washer,Appliance,N/A,1432.5,1,REDUCED,Washer (10% discount),1289.25,10.0,5,5,2,2.0
+Dryer,Appliance,N/A,1725.0,1,REDUCED,Dryer (10% discount),1552.5,10.0,5,5,2,2.0
+Range Hood,Appliance,N/A,2787.5,1,REDUCED,Range Hood (10% discount),2508.75,10.0,5,5,2,2.0
+Microwave Trim Kit,Appliance,N/A,635.0,1,REDUCED,Microwave Trim Kit (10% discount),571.5,10.0,5,5,2,2.0
+Washer / Dryer,Appliance,N/A,1432.5,1,REDUCED,Washer / Dryer (10% discount),1289.25,10.0,5,5,2,2.0

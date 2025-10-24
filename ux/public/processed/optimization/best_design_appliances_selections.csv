@@ -1,0 +1,10 @@
+MATERIAL_ID,MATERIAL_TYPE,ORIGINAL_CODE,ORIGINAL_COST,ALT_RANK,ALT_CODE,ALT_DESC,ALT_COST_TOTAL,COST_REDUCTION_PCT,FUNCTIONAL_SCORE,DESIGN_SCORE,COST_SCORE,WEIGHTED_SCORE
+Refrigerator,Appliance,N/A,0.0,0,ORIGINAL,Refrigerator (Original),0.0,0.0,5,5,1,5.0
+Microwave,Appliance,N/A,635.0,0,ORIGINAL,Microwave (Original),635.0,0.0,5,5,1,5.0
+Range,Appliance,N/A,2787.5,0,ORIGINAL,Range (Original),2787.5,0.0,5,5,1,5.0
+Dishwasher,Appliance,N/A,1432.5,0,ORIGINAL,Dishwasher (Original),1432.5,0.0,5,5,1,5.0
+Washer,Appliance,N/A,1432.5,0,ORIGINAL,Washer (Original),1432.5,0.0,5,5,1,5.0
+Dryer,Appliance,N/A,1725.0,0,ORIGINAL,Dryer (Original),1725.0,0.0,5,5,1,5.0
+Range Hood,Appliance,N/A,2787.5,0,ORIGINAL,Range Hood (Original),2787.5,0.0,5,5,1,5.0
+Microwave Trim Kit,Appliance,N/A,635.0,0,ORIGINAL,Microwave Trim Kit (Original),635.0,0.0,5,5,1,5.0
+Washer / Dryer,Appliance,N/A,1432.5,0,ORIGINAL,Washer / Dryer (Original),1432.5,0.0,5,5,1,5.0

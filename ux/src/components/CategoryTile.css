@@ -1,0 +1,116 @@
+.category-tile {
+  background: white;
+  border-radius: 12px;
+  padding: 1.25rem;
+  border: 2px solid #e9ecef;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin-bottom: 1rem;
+}
+
+.category-tile:hover {
+  border-color: #667eea;
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+  transform: translateY(-2px);
+}
+
+.category-tile.expanded {
+  border-color: #667eea;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+}
+
+.tile-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.tile-left {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.tile-icon {
+  font-size: 28px;
+}
+
+.tile-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+}
+
+.tile-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #2c3e50;
+  margin: 0;
+}
+
+.tile-count {
+  font-size: 12px;
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.tile-expand-icon {
+  font-size: 14px;
+  color: #667eea;
+  font-weight: bold;
+}
+
+.tile-metrics {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.tile-metric {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.tile-metric-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: #6c757d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tile-metric-value {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.tile-metric-value.savings {
+  color: #10b981;
+}
+
+.tile-metric-percent {
+  font-size: 13px;
+  margin-left: 0.375rem;
+  font-weight: 600;
+}
+
+.tile-metric-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+}
+
+.tile-metric-small {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.tile-metric-small .tile-metric-value {
+  font-size: 15px;
+}
+
+

@@ -1,0 +1,5 @@
+Category,Original Cost,Selected Cost,Cost Savings,Cost Reduction %,Avg Functional Score,Avg Design Score,Avg Cost Score
+Windows,"$716,230.00","$619,050.00","$97,180.00",13.57%,4.53,4.06,2.63
+Doors,"$2,910,693.00","$1,562,730.00","$1,347,963.00",46.31%,4.73,4.73,1.76
+Appliances,"$1,232,710.00","$1,109,439.00","$123,271.00",10.00%,5.00,5.00,2.00
+Overall,"$4,859,633.00","$3,291,219.00","$1,568,414.00",32.27%,4.74,4.60,2.08
