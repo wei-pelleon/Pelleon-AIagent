@@ -45,10 +45,14 @@ Thumbs.db
 *.log
 logs/
 
-# Node modules (for frontend)
+# Node modules (for frontend and backend)
+node_modules/
 ux/node_modules/
 ux/dist/
 ux/build/
+
+# Serverless deployment artifacts
+.serverless/
 
 # Temporary files
 *.tmp
