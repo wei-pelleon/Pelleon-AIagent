@@ -6,7 +6,7 @@ import pandas as pd
 from pathlib import Path
 
 
-BASE_PATH = Path("/Users/weizhang/git/VEAgent")
+BASE_PATH = Path("/app")
 
 
 @tool

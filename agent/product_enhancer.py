@@ -230,9 +230,9 @@ def main():
     enhancer = ProductEnhancer()
     
     # Enhance windows
-    windows = pd.read_csv('/Users/weizhang/git/VEAgent/data/processed/window_alternatives_scored.csv')
+    windows = pd.read_csv('/app/data/processed/window_alternatives_scored.csv')
     windows_enhanced = enhancer.enhance_window_alternatives(windows)
-    windows_enhanced.to_csv('/Users/weizhang/git/VEAgent/data/processed/window_alternatives_scored.csv', index=False)
+    windows_enhanced.to_csv('/app/data/processed/window_alternatives_scored.csv', index=False)
     print(f'✅ Enhanced {len(windows_enhanced)} window alternatives with product brands')
     
     # Show sample
@@ -243,9 +243,9 @@ def main():
         print(f"    {row['ALT_DESC'][:60]}...")
     
     # Enhance doors
-    doors = pd.read_csv('/Users/weizhang/git/VEAgent/data/processed/door_alternatives_scored.csv')
+    doors = pd.read_csv('/app/data/processed/door_alternatives_scored.csv')
     doors_enhanced = enhancer.enhance_door_alternatives(doors)
-    doors_enhanced.to_csv('/Users/weizhang/git/VEAgent/data/processed/door_alternatives_scored.csv', index=False)
+    doors_enhanced.to_csv('/app/data/processed/door_alternatives_scored.csv', index=False)
     print(f'\n✅ Enhanced {len(doors_enhanced)} door alternatives with product brands')
     
     # Show sample
@@ -256,9 +256,9 @@ def main():
         print(f"    {row['ALT_DESC'][:60]}...")
     
     # Enhance appliances
-    appliances = pd.read_csv('/Users/weizhang/git/VEAgent/data/processed/appliance_alternatives_scored.csv')
+    appliances = pd.read_csv('/app/data/processed/appliance_alternatives_scored.csv')
     appliances_enhanced = enhancer.enhance_appliance_alternatives(appliances)
-    appliances_enhanced.to_csv('/Users/weizhang/git/VEAgent/data/processed/appliance_alternatives_scored.csv', index=False)
+    appliances_enhanced.to_csv('/app/data/processed/appliance_alternatives_scored.csv', index=False)
     print(f'\n✅ Enhanced {len(appliances_enhanced)} appliance alternatives with product brands')
     
     print('\n' + '='*70)

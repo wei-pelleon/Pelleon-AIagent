@@ -374,13 +374,13 @@ def main():
     
     # Save
     evaluated['window_alternatives'].to_csv(
-        '/Users/weizhang/git/VEAgent/data/processed/window_alternatives_scored.csv', index=False
+        '/app/data/processed/window_alternatives_scored.csv', index=False
     )
     evaluated['door_alternatives'].to_csv(
-        '/Users/weizhang/git/VEAgent/data/processed/door_alternatives_scored.csv', index=False
+        '/app/data/processed/door_alternatives_scored.csv', index=False
     )
     evaluated['appliance_alternatives'].to_csv(
-        '/Users/weizhang/git/VEAgent/data/processed/appliance_alternatives_scored.csv', index=False
+        '/app/data/processed/appliance_alternatives_scored.csv', index=False
     )
     
     print("\n✅ Evaluated alternatives saved to data/processed/")

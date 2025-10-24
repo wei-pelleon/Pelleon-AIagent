@@ -9,7 +9,7 @@ from typing import Dict, Tuple
 class DataLoader:
     """Loads all project data files."""
     
-    def __init__(self, base_path: str = "/Users/weizhang/git/VEAgent"):
+    def __init__(self, base_path: str = "/app"):
         self.base_path = Path(base_path)
         self.data_path = self.base_path / "data"
         self.rsmeans_path = self.base_path / "rsmeans"

@@ -7,7 +7,7 @@ from pathlib import Path
 
 def add_quantities():
     """Add QUANTITY column to alternatives files."""
-    data_dir = Path('/Users/weizhang/git/VEAgent/data/processed')
+    data_dir = Path('/app/data/processed')
     
     # Load matched materials (which have quantities)
     matched_windows = pd.read_csv(data_dir / 'matched_windows.csv')

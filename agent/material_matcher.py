@@ -507,9 +507,9 @@ def main():
     print(appliances.to_string())
     
     # Save to processed folder
-    windows.to_csv('/Users/weizhang/git/VEAgent/data/processed/matched_windows.csv', index=False)
-    doors.to_csv('/Users/weizhang/git/VEAgent/data/processed/matched_doors.csv', index=False)
-    appliances.to_csv('/Users/weizhang/git/VEAgent/data/processed/matched_appliances.csv', index=False)
+    windows.to_csv('/app/data/processed/matched_windows.csv', index=False)
+    doors.to_csv('/app/data/processed/matched_doors.csv', index=False)
+    appliances.to_csv('/app/data/processed/matched_appliances.csv', index=False)
     
     print("\n✅ Matched materials saved to data/processed/")
 

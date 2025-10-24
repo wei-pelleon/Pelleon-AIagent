@@ -7,7 +7,7 @@ from pathlib import Path
 
 def enhance_descriptions():
     """Add full descriptions from schedule files."""
-    data_dir = Path('/Users/weizhang/git/VEAgent/data')
+    data_dir = Path('/app/data')
     processed_dir = data_dir / 'processed'
     
     # Load schedules

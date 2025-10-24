@@ -143,7 +143,7 @@ def generate_strategic_window_alternatives():
     df = pd.DataFrame(results)
     
     # Save
-    output_path = '/Users/weizhang/git/VEAgent/data/processed/window_alternatives_scored.csv'
+    output_path = '/app/data/processed/window_alternatives_scored.csv'
     df.to_csv(output_path, index=False)
     print(f'✅ Strategic window alternatives saved to {output_path}')
     

@@ -18,7 +18,7 @@ class VEWorkflow:
         self.api_key = anthropic_api_key
         self.results = {}
         
-    def run_complete_workflow(self, output_dir: str = '/Users/weizhang/git/VEAgent/data/processed') -> Dict:
+    def run_complete_workflow(self, output_dir: str = '/app/data/processed') -> Dict:
         """Run the complete VE workflow from start to finish."""
         print("\n" + "="*80)
         print("VALUE ENGINEERING WORKFLOW")

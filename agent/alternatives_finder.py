@@ -361,9 +361,9 @@ def main():
     print(app_alts.head(10).to_string())
     
     # Save to processed folder
-    window_alts.to_csv('/Users/weizhang/git/VEAgent/data/processed/window_alternatives.csv', index=False)
-    door_alts.to_csv('/Users/weizhang/git/VEAgent/data/processed/door_alternatives.csv', index=False)
-    app_alts.to_csv('/Users/weizhang/git/VEAgent/data/processed/appliance_alternatives.csv', index=False)
+    window_alts.to_csv('/app/data/processed/window_alternatives.csv', index=False)
+    door_alts.to_csv('/app/data/processed/door_alternatives.csv', index=False)
+    app_alts.to_csv('/app/data/processed/appliance_alternatives.csv', index=False)
     
     print("\n✅ Alternatives saved to data/processed/")
 

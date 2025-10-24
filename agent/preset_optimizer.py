@@ -10,7 +10,7 @@ from pathlib import Path
 class PresetOptimizer:
     """Calculates preset optimization strategies for the UI."""
     
-    def __init__(self, data_dir: str = '/Users/weizhang/git/VEAgent/data/processed'):
+    def __init__(self, data_dir: str = '/app/data/processed'):
         self.data_dir = Path(data_dir)
         self.windows = pd.read_csv(self.data_dir / 'window_alternatives_scored.csv')
         self.doors = pd.read_csv(self.data_dir / 'door_alternatives_scored.csv')

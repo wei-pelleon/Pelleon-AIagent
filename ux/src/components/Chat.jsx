@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 import './Chat.css'
+import { API_ENDPOINTS } from '../config/api'
 
 function Chat() {
   const [messages, setMessages] = useState([])
@@ -29,7 +30,7 @@ function Chat() {
 
     try {
       // Call backend API with streaming
-      const response = await fetch('http://localhost:8000/chat/stream', {
+      const response = await fetch(API_ENDPOINTS.CHAT_STREAM, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -80,7 +81,7 @@ function Chat() {
       console.error('Chat error:', error)
       setMessages(prev => [...prev, {
         role: 'assistant',
-        content: '❌ Error connecting to chat server. Make sure the backend is running on port 8000.'
+        content: '❌ Error connecting to chat server. Please try again later.'
       }])
     } finally {
       setIsLoading(false)

@@ -280,7 +280,7 @@ def main():
     
     # Export results
     print("\nExporting results...")
-    optimizer.export_results(results, '/Users/weizhang/git/VEAgent/data/processed/optimization')
+    optimizer.export_results(results, '/app/data/processed/optimization')
     
     print("\n✅ Optimization complete! Results saved to data/processed/optimization/")
 

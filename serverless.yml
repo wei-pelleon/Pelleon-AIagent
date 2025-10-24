@@ -19,7 +19,7 @@ provider:
 
 functions:
   chat:
-    handler: lambda_handler.handler
+    handler: simple_lambda.handler
     events:
       - http:
           path: /chat/stream
@@ -45,3 +45,6 @@ custom:
     slim: true
     strip: false
     fileName: requirements-lambda.txt
+    noDeps:
+      - boto3
+      - botocore
