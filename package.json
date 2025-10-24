@@ -1,0 +1,15 @@
+{
+  "name": "ve-agent-backend",
+  "version": "1.0.0",
+  "description": "Value Engineering AI Agent Backend",
+  "scripts": {
+    "deploy": "serverless deploy",
+    "deploy:prod": "serverless deploy --stage prod",
+    "remove": "serverless remove",
+    "logs": "serverless logs -f chat"
+  },
+  "devDependencies": {
+    "serverless": "^3.38.0",
+    "serverless-python-requirements": "^6.0.0"
+  }
+}
