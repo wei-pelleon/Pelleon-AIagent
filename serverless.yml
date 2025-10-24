@@ -6,7 +6,7 @@ provider:
   region: us-east-1
   stage: ${opt:stage, 'dev'}
   environment:
-    OPENAI_API_KEY: ${env:OPENAI_API_KEY}
+    OPENAI_API_KEY: ${env:OPENAI_API_KEY, 'your_openai_api_key_here'}
   iam:
     role:
       statements:
@@ -44,3 +44,4 @@ custom:
     dockerizePip: true
     slim: true
     strip: false
+    fileName: requirements-lambda.txt
